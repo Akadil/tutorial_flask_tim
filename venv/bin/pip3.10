@@ -1,4 +1,4 @@
-#!/Users/akadilkalimoldayev/my_git/tutorial_flask_tim/venv/bin/python3
+#!/mnt/nfs/homes/akalimol/my_git/tutorial_flask_tim/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
